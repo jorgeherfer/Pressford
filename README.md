@@ -11,4 +11,4 @@ All users can read, comment and like articles. Publishers can also modify, delet
 
 The database should be generated when the application starts for the first time, in the app_data folder.
 
-Given the limited amount of time (I have spent around 8 hours), I have not included interfaces, IoC or unit testing, but with more time I would have included them.
+Given the limited amount of time (I have spent around 8 hours), I have not included password hashing, interfaces, IoC or unit testing, but with more time I would have included them.
